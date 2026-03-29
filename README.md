@@ -74,23 +74,3 @@ javascript-notes/
 Each file focuses on **one core concept** with examples and explanations.
 
 ---
-
-## How to Use These Notes
-
-* Read topics sequentially for better understanding
-* Use them as quick revision material
-* Run the code snippets in your browser console or Node.js
-
----
-
-## Credits
-
-These notes are based on the **Namaste JavaScript** course by Akshay Saini.
-
-Course: https://www.youtube.com/playlist?list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX
-
----
-
-## Author
-
-Hari Krishnan
